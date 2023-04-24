@@ -1,9 +1,0 @@
-[submodule "OCA/reporting-engine"]
-	path = OCA/reporting-engine
-	url = git@github.com:OCA/reporting-engine.git
-	branch = 15.0
-
-[submodule "esystemsec/l10n_ec_esystems_v15"]
-	path = esystemsec/l10n_ec_esystems_v15
-	url = git@github.com:esystemsec/l10n_ec_esystems_v15.git
-	branch = master
