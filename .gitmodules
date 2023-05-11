@@ -1,0 +1,4 @@
+[submodule "oskr1087/l10n-ec-oskr"]
+	path = oskr1087/l10n-ec-oskr
+	url = git@github.com:oskr1087/l10n-ec-oskr.git
+	branch = 16.0
