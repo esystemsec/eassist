@@ -2,3 +2,8 @@
 	path = oskr1087/l10n-ec-oskr
 	url = git@github.com:oskr1087/l10n-ec-oskr.git
 	branch = 16.0
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 16.0
